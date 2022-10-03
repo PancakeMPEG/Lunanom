@@ -1,5 +1,9 @@
 <h2>This is a frontend made for the Ultraviolet proxy. (BETA)</h2>
 
+https://eaglercraft-server-1.cookieroba.repl.co/
+
+
+
 # <a href='https://github.com/titaniumnetwork-dev/ultraviolet-node'>View Source</a>
 # Installation
 You can run this on replit.
